@@ -575,7 +575,7 @@
         width: 100%;
     }
 
-    .post-content p:first-child{
+    .post-content + p{
         font-size: var(--font-size-x-large);
     }
 
