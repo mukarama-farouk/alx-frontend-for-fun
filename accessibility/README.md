@@ -1,3 +1,3 @@
 ## ACCESSIBILITY
 
-![Accessibility](../photo.png)
+![Accessibility](./photo.png)
